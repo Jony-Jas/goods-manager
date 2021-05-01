@@ -1,0 +1,15 @@
+td {
+    padding-top: 12px !important;
+}
+body {
+    background: antiquewhite;
+}
+.form-group {
+    padding: 20px;
+}
+button.update {
+    width: 200px;
+}
+.add_item > .form-group:nth-child(1) > label {
+    margin-right: 18px;
+}
